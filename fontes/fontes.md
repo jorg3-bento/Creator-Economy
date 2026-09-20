@@ -42,4 +42,4 @@ Além das fontes institucionais e de mercado acima, foram considerados materiais
 
 Esses materiais foram utilizados como apoio para aprofundamento conceitual e comparação das informações encontradas nas demais fontes.
 
-> **Nota:** Os artigos acadêmicos devem ser adicionados individualmente nesta seção após a inclusão dos respectivos PDFs, links, autores e dados bibliográficos.
+PDF: CreatorEconomy-Hotmart_2023-10-17.pdf: https://drive.google.com/file/d/1Bh63ONoHi6smzYjmAhkkMS4HrDeLW1f7/view
